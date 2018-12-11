@@ -27,7 +27,7 @@ Linux
    * `mkdir build`
    * `cd build`
    * `cmake ..`
-   * `make`
+   * `sudo make install`
 
 Want to contribute to SOEM or SOES?
 -----------------------------------
